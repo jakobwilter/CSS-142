@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GameLogic
+comment0.text=\n\ Tic\ Tac\ Toe\!\ The\ GameLogic\ class\ contains\ all\ necessary\ logic\ based\ method\ the\ main\ method\ needs\ to\ \n\ run\ the\ program.\ Including\ the\ creation\ of\ the\ array\ which\ is\ what\ is\ used\ to\ create\ the\ game\ board.\n\ \n\ Jakob\ Wilter\n\ March\ 9,\ 2018\n
+comment1.params=player\ row\ column
+comment1.target=void\ newBoard(char,\ int,\ int)
+comment2.params=
+comment2.target=void\ setArray()
+comment3.params=row\ column
+comment3.target=boolean\ checkAllowed(int,\ int)
+comment4.params=player
+comment4.target=char\ changePlayer(char)
+comment5.params=
+comment5.target=void\ displayBoard()
+comment6.params=
+comment6.target=boolean\ checkForTie()
+comment7.params=
+comment7.target=boolean\ checkIfWinner()
+numComments=8
